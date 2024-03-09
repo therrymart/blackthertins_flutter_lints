@@ -99,6 +99,7 @@ linter:
     overridden_fields: true
     package_api_docs: true
     package_names: true
+    no_leading_underscores_for_local_identifiers: true
     package_prefixed_library_names: true
     prefer_adjacent_string_concatenation: true
     prefer_asserts_in_initializer_lists: true
